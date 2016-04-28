@@ -1,6 +1,7 @@
 # master
 
 * Your contribution here!
+* Fix default values not being set if capistrano/migrations required after capistrano/setup
 
 # 1.1.8 (Sep 13 2016)
 
